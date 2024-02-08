@@ -6,6 +6,7 @@ import { makeStyles } from '@mui/styles';
 const useStyles = makeStyles({
     textfield: {
         width: '100%'
+        
     },
     tablecell: {
         padding: ['2px 5px', '!important'],
